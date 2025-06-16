@@ -58,14 +58,6 @@ This project aims to build a financially interpretable classification model to p
 
 ## 🧠 Final Model: LightGBM
 
-| Metric       | Value   |
-|--------------|---------|
-| Accuracy     | 84%     |
-| Recall (1)   | 35%     |
-| F1 Score (1) | 46%     |
-| ROC AUC      | 0.78    |
-| Threshold    | ~0.38   |
-
 **Why LightGBM?**
 - High accuracy and AUC
 - Supports early stopping and feature importance
